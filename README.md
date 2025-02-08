@@ -1,4 +1,4 @@
-# PD_LettCodeProblems
+# PD_LeetCodeProblems
 
 **Número da Lista**: 14<br>
 **Conteúdo da Disciplina**: Programação Dinâmica<br>
