@@ -32,9 +32,9 @@ Para a solução da questão 10 foi utilizado o algoritmo de xxx. Da mesma forma
 
 ## Screenshots
 Screenshot da Questão 2008:<br>
-![Screenshot Questão 2008]()
+![Screenshot Questão 2008](assets/2008image.jpeg)
 Screenshot da Questão 416:<br>
-![Screenshot Questão 416]()
+![Screenshot Questão 416](assets/416image.jpeg)
 
 ## Instalação 
 **Linguagem**: Python.<br>
